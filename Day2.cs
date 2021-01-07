@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using AdventOfCode.Common;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -72,7 +74,7 @@ namespace AdventOfCode
         }
         private static string GetInput()
         {
-            var data = File.ReadAllText("InputDay2.txt");
+            var data = FileHelper.GetInput("InputDay2");
             return data;
         }
 

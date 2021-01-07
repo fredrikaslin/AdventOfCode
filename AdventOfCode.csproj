@@ -10,25 +10,25 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="7.txt">
+    <None Update="Inputs\7.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="6.txt">
+    <None Update="Inputs\6.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Day3.txt">
+    <None Update="Inputs\Day3.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="5.txt">
+    <None Update="Inputs\5.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputDay4.txt">
+    <None Update="Inputs\InputDay4.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputDay3.txt">
+    <None Update="Inputs\InputDay3.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputDay2.txt">
+    <None Update="Inputs\InputDay2.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

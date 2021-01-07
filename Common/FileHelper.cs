@@ -9,7 +9,7 @@ namespace AdventOfCode.Common
     {
         public static string GetInput(string file)
         {
-            var data = File.ReadAllText($"{file}.txt");
+            var data = File.ReadAllText($"Inputs/{file}.txt");
             return data;
         }
     }
